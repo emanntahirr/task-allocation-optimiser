@@ -24,7 +24,7 @@ Task Allocation Optimizer is a Java-based program that assigns tasks to workers 
    cd task-allocation-optimiser
 3. Compile and run the project using Java:
    ```bash
-   javac Main.java
+   java Main.java
    java Main
 **Future Improvements**
 - Optimise the algorithm to handle larger sets of tasks and workers more efficiently.
